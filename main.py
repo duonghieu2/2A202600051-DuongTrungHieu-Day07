@@ -25,6 +25,16 @@ SAMPLE_FILES = [
     "data/customer_support_playbook.txt",
     "data/chunking_experiment_report.md",
     "data/vi_retrieval_notes.md",
+    "data_v2/markdown/1.md",
+    "data_v2/markdown/2.md",
+    "data_v2/markdown/3.md",
+    "data_v2/markdown/4.md",
+    "data_v2/markdown/5.md",
+    "data_v2/markdown/6.md",
+    "data_v2/markdown/7.md",
+    "data_v2/markdown/8.md",
+    "data_v2/markdown/9.md",
+    "data_v2/markdown/10.md",
 ]
 
 
